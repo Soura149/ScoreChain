@@ -1,9 +1,7 @@
-Here’s a **GitHub-ready, beginner-friendly `README.md`** for your `ScoreChain` Solidity project — clear, well-formatted, and visually attractive 👇
-
----
-
-````markdown
 # 🧾 ScoreChain – Tamper-Proof Exam Result Publication System
+
+<img width="924" height="474" alt="image" src="https://github.com/user-attachments/assets/3b8803ad-c922-41e7-89b0-a5bd11254918" />
+
 
 ## 📘 Project Description
 **ScoreChain** is a blockchain-based smart contract built using **Solidity** that enables **secure**, **transparent**, and **tamper-proof** publication of student exam results.  

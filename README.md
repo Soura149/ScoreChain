@@ -209,9 +209,3 @@ You are free to use, modify, and distribute it with attribution.
 
 ⭐ **If you find this project useful, give it a star on GitHub!**
 
-```
-
----
-
-Would you like me to also generate a **`contract_verification.md`** file for your repo — showing step-by-step how to verify this contract on **Blockscout (Celo Sepolia)**? It makes your GitHub project look more professional.
-```
